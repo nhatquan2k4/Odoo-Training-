@@ -40,6 +40,3 @@ except ValueError:
 
 
 
-
-
-
