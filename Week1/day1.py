@@ -1,4 +1,4 @@
-#  Variable and data types.
+    #  Variable and data types.
 a = 1
 b = 2.5
 c = "quan"
